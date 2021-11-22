@@ -32,4 +32,4 @@
   
 [![Dhruv's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruv-Rayat1)](https://git.io/praveenscience)
 ![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true)
-![Dhruv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight)
+![Dhruv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Rayat1)
