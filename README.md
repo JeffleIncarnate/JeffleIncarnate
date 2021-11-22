@@ -22,7 +22,7 @@
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a target="_blank" href='https://twitter.com/RayatDhruv'> <img width = '32px' margin='20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a target="_blank" href='https://twitter.com/RayatDhruv'> <img width = '32px' margin = '20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.instagram.com/dhruv_rayat/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
@@ -30,7 +30,6 @@
 <br>
 <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruv-Rayat1)](https://git.io/praveenscience)
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true)
-![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Rayat1)
+[![Dhruv's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruv-Rayat1)](https://git.io/praveenscience)
+![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true)
+![Dhruv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight)
