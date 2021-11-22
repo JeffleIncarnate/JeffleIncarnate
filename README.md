@@ -32,6 +32,7 @@
   
 [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruv-Rayat1)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight)                                                                                              |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Rayat1)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Rayat1)
