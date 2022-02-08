@@ -30,7 +30,15 @@
 <br>
 <br>
   
-[![Dhruv's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruv-Rayat1)](https://git.io/praveenscience)
-![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true)
-![Dhruv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Rayat1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Rayat1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://dhruv-website4.netlify.app/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Rayat1&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Dhruvs Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruv-Rayat1&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dhruv-website4.netlify.app/)
