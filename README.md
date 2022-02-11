@@ -2,26 +2,25 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Dhruv. This is my GitHub Profile
+<div size='20px'> Hi! My name is Dhruv. This is my GitHub Profile. Sadly since school is now in full swing, I wont be coding that often, but I'll make sure to commit a couple times during the weekend :(
 </div>
 
-<h2> About Me</h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- I’m currently working on a Badging Website
-- I’m currently learning JS, HTML, CSS
-- Languages I want to learn: C++, Java, C
-- Fun fact: I dOn'T LiKe tO COdE
+- I’m currently working on a ATM, Traffic Light Algorithem and OJC Badges Website
+- I’m currently learning: C# (Trying to get better at it)
+- Languages I want to learn: C++, Java, C, 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me </h2>
 <a target="_blank" href='https://twitter.com/RayatDhruv'> <img width = '32px' margin = '20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.instagram.com/dhruv_rayat/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/Dhruv-Rayat1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
