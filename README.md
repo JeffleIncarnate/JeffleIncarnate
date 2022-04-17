@@ -36,7 +36,7 @@
 <p align="left">
   <a href="https://dhruv-website4.netlify.app/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true&theme=gruvbox&hide_border=true" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Rayat1&layout=compact&theme=gruvbox)](https://dhruv-website3.netlify.app/)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Rayat1&layout=compact)](https://dhruv-website3.netlify.app/)
   </a>
 </p>
 <br>
