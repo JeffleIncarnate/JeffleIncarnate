@@ -34,10 +34,10 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dhruv-Rayat1&show_icons=true&theme=gruvbox&hide_border=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Rayat1&layout=compact)](https://dhruv-website3.netlify.app/)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruv-Rayat1&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruv-Rayat1&theme=nord_dark)
 </p>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-Rayat1&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-Rayat1&theme=nord_dark)
 
