@@ -32,7 +32,7 @@
   
 ## My Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruv-Rayat1&theme=nord_dark)
-<a>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruv-Rayat1&theme=nord_dark)<a/>
+<a width='49%'>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruv-Rayat1&theme=nord_dark)<a/>
         
 <br>
 
