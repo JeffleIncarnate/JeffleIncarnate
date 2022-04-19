@@ -10,8 +10,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
 - I’m currently working on a ATM, Traffic Light Algorithem and OJC Badges Website
-- I’m currently learning: C# (Trying to get better at it)
-- Languages I want to learn: C++, Java, C, 
+- I’m currently learning: C (For making an OS, I am too cool for windows hehe)
+- Languages I want to learn: Java, Go, Ruby, Assembly
 
 <h2> Skills </h2>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -39,5 +39,5 @@
 </p>
 <br>
 
-[![Dhruv's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruv-Rayat1&custom_title=Dhruv's%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dhruv-website3.netlify.app/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-Rayat1&theme=tokyonight)
 
