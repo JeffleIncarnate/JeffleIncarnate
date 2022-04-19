@@ -6,8 +6,11 @@
   
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+
 - I’m currently working on a OSC Api, OSC Enviro Club Website, Discord bot
+ 
 - I’m currently learning: C (For OS's, 'cause I am too cool for windows hehe)
+  
 - Languages I want to learn: C++, Java, Assembly, React (I know it's JS, but its confuzzling)
   
   
