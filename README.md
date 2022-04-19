@@ -25,16 +25,4 @@
 <a target="_blank" href='https://twitter.com/RayatDhruv'> <img width = '32px' margin = '20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.instagram.com/dhruv_rayat/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/Dhruv-Rayat1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-<br>
-  
-## My Statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruv-Rayat1&theme=nord_dark)
-   <img src='![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruv-Rayat1&theme=nord_dark)' width='49%' />
-        
-<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-Rayat1&theme=nord_dark)
 
