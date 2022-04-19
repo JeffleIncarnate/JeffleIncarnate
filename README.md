@@ -3,11 +3,14 @@
 </p>
 <div size='20px'> Hi! My name is Dhruv. This is my GitHub Profile. Sadly since school is now in full swing, I wont be coding that often, but I'll make sure to commit a couple times during the weekend :(
 </div>
+  
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
-- I’m currently working on a ATM, Traffic Light Algorithem and OJC Badges Website
-- I’m currently learning: C# (Trying to get better at it)
-- Languages I want to learn: C++, Java, C, 
+- I’m currently working on a OSC Api, OSC Enviro Club Website, Discord bot
+- I’m currently learning: C (For OS's, 'cause I am too cool for windows hehe)
+- Languages I want to learn: C++, Java, Assembly, React (I know it's JS, but its confuzzling)
+  
+  
 <h2> Skills </h2>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
