@@ -31,10 +31,9 @@
 <br>
   
 ## My Statistics
-
-<br/>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruv-Rayat1&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruv-Rayat1&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruv-Rayat1&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruv-Rayat1&theme=nord_dark)
+        
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-Rayat1&theme=nord_dark)
