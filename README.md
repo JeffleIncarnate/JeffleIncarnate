@@ -9,7 +9,7 @@
 
 - I’m currently working on a OSC Api, OSC Enviro Club Website, Discord bot
  
-- I’m currently learning: C (For OS's, 'cause I am too cool for windows hehe) and Flutter
+- I’m currently learning: C (For OS's, 'cause I am too cool for windows hehe) and Xamaran (C# Framework)
   
 - Languages I want to learn: C++, Java, Assembly, React (I know it's JS, but its confuzzling)
   
