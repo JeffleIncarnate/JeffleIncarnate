@@ -27,7 +27,9 @@
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> 
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> 
-<a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> 
+<a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
+<a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> 
+<a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> 
 
 <h2> Connect with me </h2>
 <a target="_blank" href='https://twitter.com/RayatDhruv'> <img width = '32px' margin = '20px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
