@@ -7,14 +7,14 @@
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- I’m currently working on a OSC Api, OSC Enviro Club Website, Discord bot
+- I’m currently working on a Dhruv Banking, Dhruv API, Dhruv Data
  
-- I’m currently learning: Node js (Mainly Express)
+- I’m currently learning: Typescript, React
   
-- Languages I want to learn: C++, Java, Assembly, React (I know it's JS, but its confuzzling)
+- Languages I want to learn: C++, Java, Assembly
   
   
-<h2> Skills </h2>
+<h2> Languages </h2>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a margin="20px" href= https://github.com/Dhruv-Rayat1 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
