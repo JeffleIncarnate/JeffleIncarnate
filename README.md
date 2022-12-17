@@ -7,7 +7,7 @@
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- I’m currently working on a Dhruv Banking, Dhruv API, Dhruv Data
+- I’m currently working on a Dhruv Face, Dhruv API
  
 - I’m currently learning: Typescript, React
   
